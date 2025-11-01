@@ -1,3 +1,2 @@
 # PixelGame
-
-Das ist ein Testdurchgang
+# Das ist ein test
